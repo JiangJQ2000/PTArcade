@@ -122,7 +122,7 @@ classifiers = [
 "Bug Tracker" = "https://github.com/andrea-mitridate/PTArcade/issues"
 
 [tool.poetry.dependencies]
-python = ">=3.9, <3.11"
+python = ">=3.9"
 ptmcmcsampler = "^2.1.1"
 mpi4py = "^3.1.4"
 h5py = "^3.8.0"
